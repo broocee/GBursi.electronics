@@ -1,5 +1,4 @@
 ## Guitar pedals
-
 ### Digital control prototype
   - Incredible specs
 ![photo_2019-01-09_15-39-48.jpg](https://www.dropbox.com/s/1xh88llvwc46agc/photo_2019-01-09_15-39-48.jpg?dl=0&raw=1)
