@@ -2,7 +2,8 @@
 Guitar pedals designed and built in Modena, Italy.
 
 ## Dual distortion unit with digital control prototype
-![photo_2019-01-09_15-39-48.jpg](https://www.dropbox.com/s/1xh88llvwc46agc/photo_2019-01-09_15-39-48.jpg?dl=0&raw=1)
+![DSCF1835.JPG](https://www.dropbox.com/s/1vnzg30xzj50stz/DSCF1835.JPG?dl=0&raw=1)
+![DSCF1836.JPG](https://www.dropbox.com/s/mbkgemzc623tvq4/DSCF1836.JPG?dl=0&raw=1)
 
 ##### Analog audio circuit distortion unit, with digitally controlled quality-of-life improvements: presets, MIDI capabilities, customizables controls.
 - Two independent distortion sources in parallel: 
