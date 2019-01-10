@@ -1,6 +1,6 @@
 ## Dual distortion unit with digital control prototype
-![DSCF1835.JPG](https://www.dropbox.com/s/1vnzg30xzj50stz/DSCF1835.JPG?dl=0&raw=1)
-![DSCF1836.JPG](https://www.dropbox.com/s/mbkgemzc623tvq4/DSCF1836.JPG?dl=0&raw=1)
+![DSCF1835 (2).JPG](https://www.dropbox.com/s/pzu6kgbonxpo5zr/DSCF1835%20%282%29.JPG?dl=0&raw=1)
+![DSCF1836 (2).JPG](https://www.dropbox.com/s/sg1tj5b9p5mko27/DSCF1836%20%282%29.JPG?dl=0&raw=1)
 
 #### Analog audio circuit distortion unit, with digitally controlled quality-of-life improvements: presets, MIDI capabilities, customizables controls.
 - Two independent distortion sources in parallel: 
