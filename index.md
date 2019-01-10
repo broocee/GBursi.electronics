@@ -2,7 +2,7 @@
 ![DSCF1835.JPG](https://www.dropbox.com/s/1vnzg30xzj50stz/DSCF1835.JPG?dl=0&raw=1)
 ![DSCF1836.JPG](https://www.dropbox.com/s/mbkgemzc623tvq4/DSCF1836.JPG?dl=0&raw=1)
 
-##### Analog audio circuit distortion unit, with digitally controlled quality-of-life improvements: presets, MIDI capabilities, customizables controls.
+#### Analog audio circuit distortion unit, with digitally controlled quality-of-life improvements: presets, MIDI capabilities, customizables controls.
 - Two independent distortion sources in parallel: 
     1- Feedback diodes, Tubescreamer-like soft overdrive
     2- To ground LED, Rat-like heavy distortion
@@ -22,7 +22,7 @@ The board is realized in SMT technology to achieve the best noise performance an
 
 ## Mated Drivers
 ![overdrive_tube_screamer_riot.jpg](https://www.dropbox.com/s/iecwqshdejzmvyz/overdrive_tube_screamer_riot.jpg?dl=0&raw=1)
-##### Analog distortion unit, with two independent effect in parallel.
+#### Analog distortion unit, with two independent effect in parallel.
 - Two independent distortion circuits in parallel: 
     1- Feedback diodes, Tubescreamer-like soft overdrive
     2- To ground LED, Rat-like heavy distortion
@@ -40,7 +40,7 @@ Sold through [Marchetti Devices][march]
 ## King's Fuzz
 ![fuzz_germanio_g2_pete_cornish.jpg](https://www.dropbox.com/s/wfmdm6l5dcg4frg/fuzz_germanio_g2_pete_cornish.jpg?dl=0&raw=1)
 
-##### Analog fuzz unit, with selectable diode combinations.
+#### Analog fuzz unit, with selectable diode combinations.
 - Strong fuzz character a là Big Muff
 - Selectable distortion diodes, between 3 pairs
 - Buffered input and output
