@@ -1,6 +1,3 @@
-# G.Bursi Electronics
-Guitar pedals designed and built in Modena, Italy.
-
 ## Dual distortion unit with digital control prototype
 ![DSCF1835.JPG](https://www.dropbox.com/s/1vnzg30xzj50stz/DSCF1835.JPG?dl=0&raw=1)
 ![DSCF1836.JPG](https://www.dropbox.com/s/mbkgemzc623tvq4/DSCF1836.JPG?dl=0&raw=1)
